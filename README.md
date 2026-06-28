@@ -127,9 +127,14 @@ requirements.txt  pinned dependencies
 
 ## About
 
-Mohammed Salmankhan 
+## About
 
-https://www.linkedin.com/in/mohammedsalmankhans/
-https://github.com/mohammedsalmankhan
+Built by Mohammed Salman Khan, MSc Artificial Intelligence at Ulster University.
+
+Email: mohammedsalmankhans636@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mohammedsalmankhans/
+
+GitHub: https://github.com/mohammedsalmankhan
 
 
