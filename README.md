@@ -1,4 +1,4 @@
-# Healthcare Prior Authorization — Multi-Agent Core
+# Healthcare Prior Authorization - Multi-Agent Core
 
 > Personalize this opening paragraph in your own words before sharing it.
 > Say why you built this and what you wanted to learn or prove. Two or
