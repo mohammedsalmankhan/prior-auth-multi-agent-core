@@ -1,8 +1,6 @@
 # Healthcare Prior Authorization - Multi-Agent Core
 
-> Personalize this opening paragraph in your own words before sharing it.
-> Say why you built this and what you wanted to learn or prove. Two or
-> three sentences is enough.
+I built this because prior authorization is one of the most tedious, error-prone parts of healthcare admin, and I wanted to see if a small, local, cost-free multi-agent system could draft the first version of that paperwork safely, with a human always checking the output before it goes anywhere.
 
 This is a small system that reads a doctor's clinical notes and an
 insurance company's approval criteria, then writes one of two things: a
@@ -129,5 +127,7 @@ requirements.txt  pinned dependencies
 
 ## About
 
-> Add your name, a link to your LinkedIn or portfolio, and a line about
-> your background here.
+Mohammed Salmankhan 
+LinkedIn · GitHub
+
+
